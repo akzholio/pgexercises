@@ -1,5 +1,5 @@
 # pgexercises
-My solutions to [PostgreSQL Exercises](pgexercises.com).
+My solutions to [PostgreSQL Exercises](pgexercises.com) by [Alisdair Owens](https://www.zaltys.net/).
 
 ![Schema](https://pgexercises.com/img/schema-horizontal.svg)
 
